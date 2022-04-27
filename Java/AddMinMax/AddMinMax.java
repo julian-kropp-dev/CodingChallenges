@@ -1,5 +1,9 @@
 package AddMinMax;
 
+/**
+ * Find the maximum and minimum values in an array and return its sum
+ */
+
 public class AddMinMax {
     public static void main(String[] args) {
         int[] array = new int[] {1, 2, 3, 4, 9, 2, 0};
